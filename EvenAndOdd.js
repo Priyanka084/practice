@@ -6,6 +6,6 @@ function GetEvenNumber() {
         }
     }
 }
-
+console.log("Hey there");
 const IsEven = (number) => number % 2 !== 0;
 GetEvenNumber();
